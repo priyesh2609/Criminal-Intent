@@ -324,7 +324,7 @@ int layout abc_popup_menu_item_layout 0x7f030014
 int layout abc_search_dropdown_item_icons_2line 0x7f030015
 int layout abc_search_view 0x7f030016
 int layout abc_simple_decor 0x7f030017
-int layout activity_crime 0x7f030018
+int layout activity_fragment 0x7f030018
 int layout fragment_crime 0x7f030019
 int layout support_simple_spinner_dropdown_item 0x7f03001a
 int string abc_action_bar_home_description 0x7f0a0001
@@ -345,6 +345,7 @@ int string crime_details_label 0x7f0a0011
 int string crime_solved_label 0x7f0a0012
 int string crime_title_hint 0x7f0a000f
 int string crime_title_label 0x7f0a0010
+int string crimes_title 0x7f0a0013
 int string title_activity_crime 0x7f0a000e
 int style AppBaseTheme 0x7f0b008b
 int style AppTheme 0x7f0b008c

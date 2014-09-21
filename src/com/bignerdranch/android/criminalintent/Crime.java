@@ -18,6 +18,11 @@ public class Crime {
 	public String getTitle() {
 		return mTitle;
 	}
+	
+	@Override
+	public String toString() {
+		return mTitle;
+	}
 
 	public void setTitle(String title) {
 		mTitle = title;
