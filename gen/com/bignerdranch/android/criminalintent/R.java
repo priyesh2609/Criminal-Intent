@@ -1097,6 +1097,9 @@ containing a value of this type.
         public static final int checkbox=0x7f05002d;
         public static final int collapseActionView=0x7f05000d;
         public static final int crime_date=0x7f05003e;
+        public static final int crime_list_item_dateTextView=0x7f050042;
+        public static final int crime_list_item_solvedCheckBox=0x7f050040;
+        public static final int crime_list_item_titleTextView=0x7f050041;
         public static final int crime_solved=0x7f05003f;
         public static final int crime_title=0x7f05003d;
         public static final int default_activity_button=0x7f050028;
@@ -1197,7 +1200,8 @@ containing a value of this type.
         public static final int abc_simple_decor=0x7f030017;
         public static final int activity_fragment=0x7f030018;
         public static final int fragment_crime=0x7f030019;
-        public static final int support_simple_spinner_dropdown_item=0x7f03001a;
+        public static final int list_item_crime=0x7f03001a;
+        public static final int support_simple_spinner_dropdown_item=0x7f03001b;
     }
     public static final class string {
         /**  Content description for the action bar "home" affordance. [CHAR LIMIT=NONE] 

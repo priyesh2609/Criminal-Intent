@@ -252,6 +252,9 @@ int id beginning 0x7f050011
 int id checkbox 0x7f05002d
 int id collapseActionView 0x7f05000d
 int id crime_date 0x7f05003e
+int id crime_list_item_dateTextView 0x7f050042
+int id crime_list_item_solvedCheckBox 0x7f050040
+int id crime_list_item_titleTextView 0x7f050041
 int id crime_solved 0x7f05003f
 int id crime_title 0x7f05003d
 int id default_activity_button 0x7f050028
@@ -326,7 +329,8 @@ int layout abc_search_view 0x7f030016
 int layout abc_simple_decor 0x7f030017
 int layout activity_fragment 0x7f030018
 int layout fragment_crime 0x7f030019
-int layout support_simple_spinner_dropdown_item 0x7f03001a
+int layout list_item_crime 0x7f03001a
+int layout support_simple_spinner_dropdown_item 0x7f03001b
 int string abc_action_bar_home_description 0x7f0a0001
 int string abc_action_bar_up_description 0x7f0a0002
 int string abc_action_menu_overflow_description 0x7f0a0003
